@@ -37,3 +37,6 @@
 
 [KANNADIGA](t.me/MR_PROFESSOR_AGORA)<p>
 [WARFADE](t.me/WarFade)
+
+## My Squad
+[DHRUVA , SWAGQUEEN , SANKI , RAHUL BHAI , KAVYA ,ARUN , PURESOUL](t.me/dangerous_kannadigaru)
