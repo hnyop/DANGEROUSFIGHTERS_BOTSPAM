@@ -29,7 +29,7 @@ DEADLY += f"═══════════════════\n\n"
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hl))
 async def alive(event):
   if event.sender_id in SUDO_USERS:
-     await SAM.send_file(event.chat_id,
+     await BOT.send_file(event.chat_id,
                                   KANNADIGA_PIC,
                                   caption=deadly,
                                   buttons=[
