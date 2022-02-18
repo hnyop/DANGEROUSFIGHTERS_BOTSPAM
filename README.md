@@ -1,6 +1,6 @@
 # KANNADIGA ROBOT SPAMBOT
 # TOP CREDITS - 
-[AMMU GOUDA , SWAG QUEEN , PURESOUL , KAVYA](https://t.me/parama_sundari)
+#[AMMU GOUDA , SWAG QUEEN , PURESOUL , KAVYA](https://t.me/parama_sundari)
 <p align="center">
   <img src="https://telegra.ph/file/d336651ca60a7a122f524.jpg">
 </p>
