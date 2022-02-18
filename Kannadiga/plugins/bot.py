@@ -5,7 +5,7 @@ import git
 import heroku3
 # Changed root to Kannadiga
 from Kannadiga import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9
-from Kannadiga import OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, deadlyversion
+from Kannadiga import OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, kannadigaversion
 from Kannadiga import CMD_HNDLR as hl
 from telethon.tl.functions.users import GetFullUserRequest
 # alive Pic By Default It's Will Show Our
