@@ -1,5 +1,5 @@
 # KANNADIGA ROBOT SPAMBOT
-
+# TOP CREDITS - [TELEGRAM TOP GROUP OWNER PRINCESS AMMU GOUDA](https://t.me/parama_sundari)
 <p align="center">
   <img src="https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg">
 </p>
