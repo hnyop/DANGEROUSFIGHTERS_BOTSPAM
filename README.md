@@ -15,7 +15,7 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MR-KANNADIGA/ROBOTSPAM/blob/main/LICENSE)
 
 ## My Squad
-[DHRUVA , SWAGQUEEN , SANKI , RAHUL BHAI , KAVYA ,ARUN , PURESOUL](t.me/dangerous_kannadigaru)
+[DHRUVA , SWAGQUEEN , SANKI , RAHUL BHAI , KAVYA , ARUN , AMMU , PURESOUL](t.me/dangerous_kannadigaru)
 
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
