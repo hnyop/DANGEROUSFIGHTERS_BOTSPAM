@@ -16,7 +16,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MR-KANNADIGA/ROBOTSPAM/blob/main/LICENSE)
 
-# My Squad
+# 𝗠𝗬 𝗦𝗤𝗨𝗔𝗗
 # [DHRUVA , SWAGQUEEN , SANKI , DEVADIGA , ULLURA , SACHIN ANNA , RAHUL BHAI , KAVYA , ARUN , AMMU , PURESOUL](t.me/dangerous_kannadigaru)
 
 
