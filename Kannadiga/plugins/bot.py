@@ -20,8 +20,8 @@ KANNADIGA_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/bc756c9f0f
 
 DEADLY = "⚡ 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 𝗥𝗼𝗯𝗼𝘁 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲 ⚡\n\n"
 DEADLY += f"╔═══════════════════════╗\n"
-DEADLY += f"║• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.1`                 ║\n"
-DEADLY += f"║• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`           ║\n"
+DEADLY += f"║• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.1`                  ║\n"
+DEADLY += f"║• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`              ║\n"
 DEADLY += f"║• **ᴋᴀɴɴᴀᴅɪɢᴀ ʙᴏᴛ sᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{kannadigaversion}` ║\n"
 DEADLY += f"╚═══════════════════════╝\n\n"   
 
