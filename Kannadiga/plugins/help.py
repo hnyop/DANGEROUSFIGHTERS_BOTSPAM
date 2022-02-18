@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from Kannadiga import CMD_HNDLR as hl
     
-HELP_PIC = "https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg"
+HELP_PIC = "https://telegra.ph/file/d336651ca60a7a122f524.jpg"
 
 ZAID_Help = "❤️💛 Kᴀɴɴᴀᴅɪɢᴀ Rᴏʙᴏᴛ Sᴘᴀᴍ 💛❤️\n\n"
  
@@ -25,7 +25,7 @@ ZAID_Help += f" `.raid` - To Raid\n `.replyraid` - To Active Reply Raid\n `.drep
 
 ZAID_Help += f" .zaidspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂😈↧\n\n"
 
-ZAID_Help += f"© @MR_PROFESSOR_AGORA\n"
+ZAID_Help += f"© @DANGEROUS_KANNADIGA\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
