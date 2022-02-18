@@ -31,7 +31,7 @@ async def alive(event):
   if event.sender_id in SUDO_USERS:
      await BOT0.send_file(event.chat_id,
                                   KANNADIGA_PIC,
-                                  caption=deadly,
+                                  caption=kannadiga,
                                   buttons=[
         [
         Button.url("❤️ ᴄʜᴀɴɴᴇʟ ❤️", "https://t.me/KANNADIGA_BOTS"),
