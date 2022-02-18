@@ -1,7 +1,7 @@
 # [𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔'𝗦 𝗧𝗢𝗣 𝟭](t.me/naan_1_kannadiga) 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗪𝗔𝗥𝗙𝗔𝗗𝗘 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔](t.me/warfade)
 # KANNADIGA ROBOT SPAMBOT
-# TOP CREDITS - 
-# [AMMU GOUDA ,SWAG QUEEN ,PURESOUL ,KAVYA ,QUEEN](https://t.me/parama_sundari)
+# TOP CREDITS - [KING'S QUEEN](t.me/kannadiga_bots)
+# [AMMU GOUDA ,SWAG QUEEN ,PURESOUL ,KAVYA](https://t.me/parama_sundari)
 <p align="center">
   <img src="https://telegra.ph/file/d336651ca60a7a122f524.jpg">
 </p>
