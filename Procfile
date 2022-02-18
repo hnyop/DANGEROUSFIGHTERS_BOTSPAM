@@ -1,1 +1,1 @@
-Godfather: python -m Kannadiga
+Kannadiga: python -m Kannadiga
