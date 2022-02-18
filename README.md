@@ -1,7 +1,7 @@
 # KANNADIGA ROBOT SPAMBOT
 # TOP CREDITS - [GROUP OWNER PRINCESS AMMU GOUDA](https://t.me/parama_sundari)
 <p align="center">
-  <img src="https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg">
+  <img src="https://telegra.ph/file/d336651ca60a7a122f524.jpg">
 </p>
 
 
@@ -14,6 +14,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MR-KANNADIGA/ROBOTSPAM/blob/main/LICENSE)
 
+## My Squad
+[DHRUVA , SWAGQUEEN , SANKI , RAHUL BHAI , KAVYA ,ARUN , PURESOUL](t.me/dangerous_kannadigaru)
 
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
@@ -38,5 +40,3 @@
 [KANNADIGA](t.me/MR_PROFESSOR_AGORA)<p>
 [WARFADE](t.me/WarFade)
 
-## My Squad
-[DHRUVA , SWAGQUEEN , SANKI , RAHUL BHAI , KAVYA ,ARUN , PURESOUL](t.me/dangerous_kannadigaru)
