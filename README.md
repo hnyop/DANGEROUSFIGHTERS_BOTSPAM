@@ -1,8 +1,8 @@
-# [DANGEROUS FIGHTERS](https://t.me/DANGEROUSFIGHTERS) <br>
-# 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [DANGEOUSFIGHTERS](https://t.me/WarFade)
-# KANNADIGA ROBOT SPAMBOT
+# [ROYAL DANGEROUS FIGHTERS](https://t.me/ROYALDANGEROUSFIGHTERS) <br>
+# 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗦𝗣𝗘𝗘𝗗𝗘𝗦𝗧 𝗔𝗡𝗗 𝗦𝗧𝗥𝗢𝗡𝗚𝗘𝗦𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 [ROYALDANGEOUSFIGHTERS](https://t.me/WarFade)
+# ROYAL ROBOT SPAMBOT
 # ">
-  <img src="https://te.legra.ph/file/10820f960525337165371.jpg">
+  <img src="https://te.legra.ph/file/b47d5bc8a380de7143132.jpg">
 </p>
 
 
@@ -20,14 +20,14 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/NAAN_1_KANNADIGA"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/KANNADIGA_BOTS"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ROYAL_DOLLY_FIGHTER"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ROYAL_DOLLY_FIGHTER"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
 #### With Heroku
 
-<a href="https://www.heroku.com/deploy?template=https://github.com/DANGEROUSFIGHTERS/DANGEROUSFIGHTERS-ROBOTSPAM">
+<a href="https://www.heroku.com/deploy?template=https://github.com/hnyop/DANGEROUSFIGHTERS-ROBOTSPAM">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
@@ -37,6 +37,6 @@
 ## Credits 
 
 
-[KANNADIGA](https://t.me/MR_PROFESSOR_AGORA)<p>
-[WARFADE](https://t.me/WarFade)
+[Naira](https://t.me/ROYAL_DOLLY_FIGHTER)<p>
+[WARFADE](https://t.me/ROYAL_DOLLY_FIGHTER)
 
