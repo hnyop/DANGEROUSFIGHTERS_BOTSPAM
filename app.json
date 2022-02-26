@@ -1,7 +1,7 @@
 {
-    "name": "Kannadiga Robot Spam Bot",
-    "description": "MOST POWERFULL SPAMMING BOT MADE BY KANNADIGA",
-    "logo": "https://te.legra.ph/file/bc756c9f0f5240ce42160.jpg",
+    "name": "ROYAL Robot Spam Bot",
+    "description": "MOST POWERFULL SPAMMING BOT MADE BY ROYAL",
+    "logo": "https://te.legra.ph/file/b47d5bc8a380de7143132.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,7 +9,7 @@
         "Mr-Kannadiga",
         "SpamBot"
     ],
-    "repository": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
+    "repository": "https://github.com/hnyop/ROBOTSPAM",
     "website": "https://t.me/MR_PROFESSOR_AGORA",
     "success_url": "https://github.com/MR-KANNADIGA/ROBOTSPAM",
     "env": {
